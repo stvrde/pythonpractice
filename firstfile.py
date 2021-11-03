@@ -5,4 +5,5 @@ if list == list[::-1]:
 else:
     print("nije palindrom")
 
-print("this is new branch")
+#print("this is new branch")
+#commit to main
